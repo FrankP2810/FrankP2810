@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrankP2810
 - 👀 I’m interested in Networking and Software engineering
-- 🌱 I’m currently learning python, Linux and Networ N10-008
+- 🌱 I’m currently learning python, Linux and Network N10-008
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: frankperez2830@gmail.com
 
